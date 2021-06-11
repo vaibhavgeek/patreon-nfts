@@ -14,9 +14,9 @@ channel grows these NFT (and thus the exclusivity) associated with it can be sol
 
 ### Use Case 2
 Imagine you are a TV actor who is out of work at the moment (as we saw during the pandemic) , now you need some money in order to sustain a
-certain lifestyle. So you can reach out and mint NFTs and the exclusivity could be the incorrect takes that took place, inside gossips, 
+certain lifestyle. So you can reach out and mint NFTs and the exclusivity could be the videos of incorrect takes that took place, inside gossips, 
 artworks from sets that you have, behind the scenes footage, reaction of your own memes. Your fans will buy it for certain premium and then as you grow 
-to be a bigger star, these exclusivity can be sold out to the potentially highest bidder. 
+to become a bigger star, these exclusivity can be sold out to the potentially highest bidder. 
 
 ## Technical Architechture 
 It uses 
@@ -43,4 +43,5 @@ It uses
 </p>
 
 ## Demo Video 
-https://www.youtube.com/watch?v=JqDsqNygJdg (Apologies for the low audio) 
+https://www.youtube.com/watch?v=JqDsqNygJdg 
+(Apologies for the low audio) 
